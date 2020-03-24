@@ -1,2 +1,2 @@
 # repo1
-fun and learn repository
+"to have fun while learning various bits and pieces" repository
